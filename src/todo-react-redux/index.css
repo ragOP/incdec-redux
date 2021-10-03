@@ -17,8 +17,8 @@ code {
   min-height: 100vh;
   flex-direction: column;
   text-align: center;
-  background-color: #cb18e2;
-  color: rgb(228, 74, 74);
+  background-color: #DA2C43;
+  color: white;
   justify-content: flex-start;
   align-items: center;
 }
@@ -30,7 +30,7 @@ code {
   flex-direction: column;
   text-align: center;
   background-color: #131A28;
-  color: rgb(223, 12, 40);
+  color: white;
   border-radius: 8px;
   justify-content: flex-start;
   align-items: center;
